@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://vhbeltramini.github.io/blog/"
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hugo-theme-hello-friend-ng"
@@ -44,7 +44,7 @@ paginate     = 10
 
     [languages.en.params.logo]
         logoText = "hello world"
-        logoHomeLink = "/"
+        logoHomeLink = "https://vhbeltramini.github.io/blog/"
     # or
     #
     # path = "/img/your-example-logo.svg"
